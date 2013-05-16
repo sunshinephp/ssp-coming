@@ -18,8 +18,7 @@
     <p>Get ready, mark your calendars! If you thought the <a href="http://2013.sunshinephp.com" title="2013 SunshinePHP Developer Conference">2013 SunshinePHP Developer Conference</a> was awesome, you won't want to miss 2014!</p>
     <p>&nbsp;</p>
     <p>
-        Add yourself to the SunshinePHP mailing list and stay informed:<br />
-        (Note: Not necessary if you added yourself for 2013)
+        Add yourself to the SunshinePHP mailing list and stay informed:
     </p>
     
     <!-- Begin MailChimp Signup Form -->
@@ -47,5 +46,9 @@
   })();
 
 </script>
+
+<div>
+    <p>As a rough estimate we expect to announce the Call For Papers, as well as announcing Sponsor packages in August/September 2013.</p>
+</div>
 </body>
 </html>
