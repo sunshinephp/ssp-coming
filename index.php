@@ -42,7 +42,7 @@
                 </article>
             </section>
             <section>
-                <div>Contributed by Jeremy Keith Wilson of <a href="http://jkwmultimedia.com/" title="JKW Multimedia" target="_blank">JKW Multimedia</a></div>
+                <div>Contributed by <a href="http://soflophp.org" title="SoFloPHP South Florida PHP User Group" target="_blank">SoFloPHP</a> member Jeremy Keith Wilson of <a href="http://jkwmultimedia.com/" title="JKW Multimedia" target="_blank">JKW Multimedia</a></div>
             </section>
         </div>
         <footer class="container-fluid" id="footer-home">
