@@ -41,6 +41,9 @@
                     <!--End mc_embed_signup--> 
                 </article>
             </section>
+            <section>
+                <div>Contributed by Jeremy Keith Wilson of <a href="http://jkwmultimedia.com/" title="JKW Multimedia" target="_blank">JKW Multimedia</a></div>
+            </section>
         </div>
         <footer class="container-fluid" id="footer-home">
             <div class="row-fluid">
