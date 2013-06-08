@@ -41,14 +41,12 @@
                     <!--End mc_embed_signup--> 
                 </article>
             </section>
-            <section>
-                <div>Contributed by <a href="http://soflophp.org" title="SoFloPHP South Florida PHP User Group" target="_blank">SoFloPHP</a> member Jeremy Keith Wilson of <a href="http://jkwmultimedia.com/" title="JKW Multimedia" target="_blank">JKW Multimedia</a></div>
-            </section>
         </div>
         <footer class="container-fluid" id="footer-home">
             <div class="row-fluid">
                 <h5 class="text-center capitalize fade-in four">Sunshine PHP Conference</h5>
             </div>
+            <div id="tribute" class="text-info">Contributed by <a href="http://soflophp.org" title="SoFloPHP South Florida PHP User Group" target="_blank">SoFloPHP</a> member Jeremy Keith Wilson of <a href="http://jkwmultimedia.com/" title="JKW Multimedia" target="_blank">JKW Multimedia</a></div>
         </footer>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>!window.jQuery && document.write(unescape('%3Cscript src="js/jquery-1.9.1.min.js"%3E%3C/script%3E'))</script> 
