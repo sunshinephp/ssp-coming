@@ -3,34 +3,34 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Sunshine PHP Developer Conference 2014</title>
+        <title>Sunshine PHP Developer Conference 2015</title>
         <link href="css/all.min.css" rel="stylesheet" type="text/css">
     </head>
     <body>
         <div id="wrap">
-        	<header class="container-fluid" id="header-home">
+        	<div class="container-fluid" id="header-home">
                 <div class="row-fluid">
                     <div class="span12 text-center">
                         <h1>
-                        	<img src="images/sunshinephp_logo_2014_800px.png" alt="SunshinePHP Developer Conference - Feb. 6-8 2014" id="ssphplogo" class="fade-in one" />
+                        	<img src="images/sunshinephp_logo_2015_800px.png" alt="SunshinePHP Developer Conference - Feb. 5-7 2015" id="ssphplogo" />
                         </h1>
                     </div>
                 </div>
-            </header>
-            <section class="container-fluid" id="hero-home">
+            </div>
+            <div class="container-fluid" id="hero-home">
                 <article class="row-fluid">
-                    <div class="span12 text-center fade-in two">
+                    <div class="span12 text-center">
                         <h4>Get ready, mark your calendars!</h4>
-                        <p>If you thought the <a href="http://2013.sunshinephp.com" title="2013 Sunshine PHP Developer Conference" class="whiteLink">2013 Sunshine PHP Developer Conference</a> was awesome, you won't want to miss 2014!</p>
+                        <p>If you thought the <a href="http://2014.sunshinephp.com" title="2014 Sunshine PHP Developer Conference" class="whiteLink">2014 Sunshine PHP Developer Conference</a> was awesome, you won't want to miss 2015!</p>
                         <p>Add yourself to the Sunshine PHP mailing list and stay informed:</p>
                     </div>
                 </article>
-            </section>
-            <section class="container-fluid" id="form-home">
-                <article class="row-fluid">
+            </div>
+            <div class="container-fluid" id="form-home">
+                <div class="row-fluid">
                     <!-- Begin MailChimp Signup Form -->
                     <div class="span12 text-center" id="mc_embed_signup">
-                        <form action="http://uniquewebsites.us6.list-manage.com/subscribe/post?u=f6982e96ad914a99e45e6b5a9&amp;id=48ad0ac116" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-signup-home fade-in three" target="_blank" novalidate>
+                        <form action="http://uniquewebsites.us6.list-manage.com/subscribe/post?u=f6982e96ad914a99e45e6b5a9&amp;id=48ad0ac116" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-signup-home" target="_blank" novalidate>
                             <label for="mce-EMAIL">Signup for future notifications</label>
                             <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
                             <div class="clear text-center clearfix">
@@ -39,17 +39,16 @@
                         </form>
                     </div>
                     <!--End mc_embed_signup--> 
-                </article>
-            </section>
+                </div>
+            </div>
         </div>
-        <footer class="container-fluid" id="footer-home">
+        <div class="container-fluid" id="footer-home">
             <div class="row-fluid">
-                <h5 class="text-center capitalize fade-in four">Sunshine PHP Conference</h5>
+                <h5 class="text-center capitalize">Sunshine PHP Conference</h5>
             </div>
             <div id="tribute" class="text-info">Contributed by <a href="http://soflophp.org" title="SoFloPHP South Florida PHP User Group" target="_blank">SoFloPHP</a> member Jeremy Keith Wilson of <a href="http://jkwmultimedia.com/" title="JKW Multimedia" target="_blank">JKW Multimedia</a></div>
-        </footer>
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-        <script>!window.jQuery && document.write(unescape('%3Cscript src="js/jquery-1.9.1.min.js"%3E%3C/script%3E'))</script> 
+        </div>
+        <script src="js/jquery-1.9.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script> 
         <script type="text/javascript">
         
@@ -65,5 +64,6 @@
           })();
         
         </script>
+        <script src="js/modernizr.custom.78736.js"></script>
     </body>
 </html>
