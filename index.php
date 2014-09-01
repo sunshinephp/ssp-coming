@@ -14,6 +14,8 @@
                         <h1>
                         	<img src="images/sunshinephp_logo_2015_800px.png" alt="SunshinePHP Developer Conference - Feb. 5-7 2015" id="ssphplogo" />
                         </h1>
+                        
+                        <h2>CFP now open at <a href="http://cfp.sunshinephp.com" title="SunshinePHP Call for Papers" class="whiteLink">http://cfp.sunshinephp.com</a></h2>
                     </div>
                 </div>
             </div>
